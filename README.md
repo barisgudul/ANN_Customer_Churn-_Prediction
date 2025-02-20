@@ -139,8 +139,8 @@ Full license terms available in [LICENSE](LICENSE) file.
 ## 📧 Contact Information
 
 **Project Maintainer**  
-[![Author Badge](https://img.shields.io/badge/Author-Your_Name-blue.svg)]()  
-[![Email](https://img.shields.io/badge/Email-your.email@domain.com-red.svg)](mailto:mehmetbarisgudul@gmail.com)  
+[![Author Badge](https://img.shields.io/badge/Author-barisgudul-blue.svg)]()  
+[![Email](https://img.shields.io/badge/Email-mehmetbarisgudul@gmail.com-red.svg)](mailto:mehmetbarisgudul@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational.svg)](https://linkedin.com/in/mehmet-baris-gudul-1101bg)
 
 **Contribution Guidelines:**  
