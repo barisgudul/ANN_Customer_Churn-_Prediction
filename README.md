@@ -1,8 +1,5 @@
 # Customer Churn Prediction with Artificial Neural Networks (ANN)
 
-![ANN Architecture]([https://miro.medium.com/max/1400/1*DW0Ccmj1hZ0OvSXi7Kz1MQ.png](https://cdn.the-scientist.com/assets/articleNo/71687/iImg/52296/62dc0501-8dda-4bd7-9ba9-fa1a9b8c7cb4-l.webp))
-*Figure 1: Artificial Neural Network Architecture*
-
 ## 📝 Table of Contents
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
@@ -35,9 +32,12 @@ This project implements an Artificial Neural Network (ANN) to predict customer c
 - Geography (France/Germany/Spain)
 - Gender
 - Age
+- Tenure
 - Balance
+- NumOfProducts
+- HasCrCard
+- IsActiveMember
 - EstimatedSalary
-- Activity Status
 
 
 ## 🧠 Model Architecture
