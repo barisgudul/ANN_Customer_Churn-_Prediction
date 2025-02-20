@@ -63,16 +63,14 @@ ann.add(tf.keras.layers.Dense(units=1, activation='sigmoid'))
 ### Model Evaluation Matrix
 | Metric | Training | Test Set |
 |--------|----------|----------|
-| **Accuracy** | 85.71% | 85.95% |
-| **Loss** | 0.3475 | 0.3521 |
-| **Precision** | - | 72.76% |
-| **Recall** | - | 45.55% |
-| **F1-Score** | - | 56.03% |
+| **Accuracy** | 86.59% | 86.20% |
+| **Loss** | 0.3309 | 0.3521 |
+
 
 **Confusion Matrix:**
 ```python
-[[1540   67]  # True Negative | False Positive
- [ 214  179]] # False Negative | True Positive
+[[1531   76]  # True Negative | False Positive
+ [ 200  193]] # False Negative | True Positive
 ```
 
 ## 📥 Installation Guide
@@ -108,17 +106,14 @@ jupyter notebook ANN.ipynb
 ![Confusion Matrix Heatmap](Artificial-Neural-Networks/heatmap.png)
 
 **Prediction Distribution:**
-- **True Negatives (TN):** 1540  
+- **True Negatives (TN):** 1531  
   *Customers correctly identified as staying*
-- **False Positives (FP):** 67  
+- **False Positives (FP):** 76 
   *Loyal customers mistakenly flagged as churn risks*
-- **False Negatives (FN):** 214  
+- **False Negatives (FN):** 200  
   *Churning customers missed by the model*
-- **True Positives (TP):** 179  
+- **True Positives (TP):** 193 
   *Churn risks accurately predicted*
-
-**Interpretation:**  
-The model demonstrates strong negative class prediction capability (85.7% TN rate) while maintaining reasonable positive class identification (45.6% TP rate). Prioritize reducing FN to better capture at-risk customers.
 
 ---
 
