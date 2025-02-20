@@ -103,7 +103,7 @@ jupyter notebook ANN.ipynb
 ## 📊 Results Visualization
 
 ### Confusion Matrix Heatmap
-![Confusion Matrix Heatmap](Artificial-Neural-Networks/heatmap.png)
+![Confusion Matrix Heatmap](Artificial%20Neural%20Networks/heatmap.png) 
 
 **Prediction Distribution:**
 - **True Negatives (TN):** 1531  
@@ -135,7 +135,7 @@ Full license terms available in [LICENSE](LICENSE) file.
 
 **Project Maintainer**  
 [![Author Badge](https://img.shields.io/badge/Author-barisgudul-blue.svg)]()  
-[![Email](https://img.shields.io/badge/Email-mehmetbarisgudul%40gmail.com-red.svg)](mailto:mehmetbarisgudul@gmail.com)  
+[![Email](https://img.shields.io/badge/Contact_Me-Email%3A%20mehmetbarisgudul%40gmail.com-e74c3c?style=flat-square&logo=gmail)](mailto:mehmetbarisgudul@gmail.com)    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational.svg)](https://linkedin.com/in/mehmet-baris-gudul-1101bg)
 
 **Contribution Guidelines:**  
