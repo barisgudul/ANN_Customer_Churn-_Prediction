@@ -140,7 +140,7 @@ Full license terms available in [LICENSE](LICENSE) file.
 
 **Project Maintainer**  
 [![Author Badge](https://img.shields.io/badge/Author-barisgudul-blue.svg)]()  
-[![Email](https://img.shields.io/badge/Email-mehmetbarisgudul@gmail.com-red.svg)](mailto:mehmetbarisgudul@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-mehmetbarisgudul%40gmail.com-red.svg)](mailto:mehmetbarisgudul@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational.svg)](https://linkedin.com/in/mehmet-baris-gudul-1101bg)
 
 **Contribution Guidelines:**  
